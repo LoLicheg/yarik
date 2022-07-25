@@ -9,11 +9,11 @@ namespace peremenie
             byte gold;
             sbyte titan;
             short phone;
-            ushort woman;
-            int putin;
-            uint vladimir;
-            long junior;
-            ulong cum;
+            ushort apple;
+            int star;
+            uint melon;
+            long packet;
+            ulong book;
         }
     }
 }
