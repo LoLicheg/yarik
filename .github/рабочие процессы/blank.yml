@@ -1,0 +1,19 @@
+namespace peremenie
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // Переменные
+
+            byte gold;
+            sbyte titan;
+            short phone;
+            ushort woman;
+            int putin;
+            uint vladimir;
+            long junior;
+            ulong cum;
+        }
+    }
+}
